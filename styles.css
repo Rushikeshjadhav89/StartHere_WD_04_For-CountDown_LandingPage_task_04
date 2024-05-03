@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    text-align: center;
+    background-image: url('https://www.hdwallpapers.in/download/beach_sunset_hut_moon_horizon_nature_background_4k_hd_nature-2560x1440.jpg');
+    background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  }
+  
+  .container {
+    max-width: 600px;
+    margin: 300px auto;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    justify-content: center;
+    background-color: rgba(255, 255, 255, 0.5)
+    
+    
+    
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  #countdown {
+    font-size: 48px;
+    margin-bottom: 20px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
